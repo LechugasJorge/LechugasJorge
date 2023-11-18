@@ -5,7 +5,8 @@
 
 <!-- Información de Contacto -->
 <p align="center">
-  📧 Correo Electrónico: [JORGELECHUGAS@outlook.com](mailto:JORGELECHUGAS@outlook.com) <br>
+  📧 Correo Electrónico: JORGELECHUGAS@outlook.com
+ <br>
   🌐 LinkedIn: [Jorge Fuentes](https://www.linkedin.com/in/jorgefuentes/)
 </p>
 
