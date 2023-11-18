@@ -4,4 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<figure><embed src="https://wakatime.com/share/@Lechugas/08992f6b-1f13-4b99-9fbd-a1e67217e10e.svg"></embed></figure>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LechugasJorge&layout=pie&theme=transparent)](https://github.com/LechugasJorge/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LechugasJorge&show_icons=true&theme=transparent)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LechugasJorge)](https://github.com/LechugasJorge/github-readme-stats)
