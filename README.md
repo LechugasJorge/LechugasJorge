@@ -9,6 +9,11 @@
  <br>
   🌐 LinkedIn: [Jorge Fuentes](https://www.linkedin.com/in/jorgefuentes/)
 </p>
+
+Horas de programacion semanal; 
+
+[![wakatime](https://wakatime.com/badge/user/6f6f6821-6016-4d13-8c0e-bef7d4209f98.svg)](https://wakatime.com/@6f6f6821-6016-4d13-8c0e-bef7d4209f98)
+
 <!-- Objetivo -->
 🚀 Objetivo
   <p>
