@@ -9,15 +9,16 @@
  <br>
   🌐 LinkedIn: [Jorge Fuentes](https://www.linkedin.com/in/jorgefuentes/)
 </p>
-
 <!-- Objetivo -->
-<details>
-  <summary>🚀 Objetivo</summary>
+🚀 Objetivo
   <p>
     Aplicar mis habilidades en programación y análisis de datos para contribuir al desarrollo de soluciones innovadoras con uso de inteligencia artificial y continuar con mi aprendizaje autodidacta como ingeniero en sistemas computacionales.
   </p>
 </details>
 
+   <table>
+    <tr>
+        <td>
 <!-- Experiencia Laboral -->
 <details>
   <summary>🛠️ Experiencia Laboral</summary>
@@ -44,8 +45,6 @@
 <!-- Estadísticas GitHub -->
 <details>
   <summary>📊 Estadísticas GitHub</summary>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LechugasJorge&layout=compact&theme=dark)](https://github.com/LechugasJorge/github-readme-stats)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LechugasJorge&show_icons=true&theme=dark)
 </details>
@@ -176,6 +175,12 @@
     Actualmente estoy a punto de iniciar mi especialidad en Informática, asistiendo los fines de semana. Trabajo de delivery con Uber Eats cuando tengo tiempo libre y realizo mi servicio universitario, el cual puedo cambiar de horario para conseguir un trabajo. Amo patinar en skate y programar, estoy entusiasmado por generar soluciones tecnológicas de gran impacto social. También disfruto mucho de la edición de video y generación de contenido.
   </p>
 </details>
+</td>
+        <td><img src="https://wakatime.com/share/@Lechugas/c957bc9b-ee41-44b7-b1df-d192970c2356.svg" alt="Wakatime Stats" width="800" height="400">
+</td>
+    </tr>
+    </table>
+
 
 
 <!-- Redes Sociales -->
