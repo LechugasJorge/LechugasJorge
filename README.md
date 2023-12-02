@@ -17,8 +17,14 @@ Horas de programacion semanal;
 <!-- Objetivo -->
 🚀 Objetivo
   <p>
-    Aplicar mis habilidades en programación y análisis de datos para contribuir al desarrollo de soluciones innovadoras con uso de inteligencia artificial y continuar con mi aprendizaje autodidacta como ingeniero en sistemas computacionales.
+   Cazador de bytes en la búsqueda de soluciones innovadoras con el poder de la inteligencia artificial! 🧠💻
   </p>
+  <p>
+   Autodidacta como un auténtico ingeniero en sistemas computacionales. 🌐🤖
+    </p> 
+    <p> 
+    Donde el código cobra vida y las ideas brillan en la oscuridad del ciberespacio! 🌌🔮 ¡Aventura, innovación y bytes zombies, todo en uno! 🧟✨
+</p> 
 </details>
 
    <table>
