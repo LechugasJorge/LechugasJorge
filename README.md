@@ -7,7 +7,7 @@
 <p align="center">
   📧 Correo Electrónico: JORGELECHUGAS@outlook.com
  <br>
-  🌐 LinkedIn: [Jorge Fuentes](https://www.linkedin.com/in/jorgefuentes/)
+  🌐 LinkedIn: [Jorge Fuentes](https://www.linkedin.com/in/jorgelechugas/)
 </p>
 
 Horas de programacion semanal; 
