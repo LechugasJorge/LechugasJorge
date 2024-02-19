@@ -197,18 +197,27 @@ Horas de programacion semanal;
 <!-- Redes Sociales -->
 <h2 align="center">Conéctate conmigo</h2>
 <p align="center">
+  
+  <a href="https://www.linkedin.com/in/jorgelechugas/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
+  
   <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=61550480867105">
     <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/lettuches/">
+  <a href="https://www.instagram.com/lechugasskate/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
 
   <!-- YouTube -->
   <a href="https://www.youtube.com/channel/UCCVH3mvZFNs9vZQP_3PL_jw">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+  </a>
+
+<a href="https://www.youtube.com/channel/UCA-UArQPMiba7YgPw7OsgHg">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 
